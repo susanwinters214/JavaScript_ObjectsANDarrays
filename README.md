@@ -27,7 +27,12 @@
 3. Using dot notation, add a method named info to the book object that returns a string that combines the title, pages, and readCount as an informational string. Ex: The Hobbit by J.R.R Tolkien, 295 pages, read 3 times.
 4. After you have added the properties and method to the object, call the book.info() method inside console.log to print out the returned string.
 
-// Flex BootCamp
-Exercise 3: Reverse a String
 
-Exercise 4: Parse CSV data
+### Exercise 3: Reverse a String
+let sentence = "The quick brown fox jumps over the lazy dog";
+reverse each word
+
+### Exercise 4: Parse CSV data
+start with this: let csvData = "name,age\nFrodo,50\nSam,38\nMerry,36\nPippin,26";
+
+
