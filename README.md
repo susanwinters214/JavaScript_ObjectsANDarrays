@@ -28,3 +28,6 @@
 4. After you have added the properties and method to the object, call the book.info() method inside console.log to print out the returned string.
 
 // Flex BootCamp
+Exercise 3: Reverse a String
+
+Exercise 4: Parse CSV data
